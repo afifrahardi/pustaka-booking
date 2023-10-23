@@ -17,20 +17,20 @@
                 </tr>
                 <tr>
                     <th>Kode MTK</th>
-                    <th>:</th>
+                    <td>:</td>
                     <td>
                         <?= $kode; ?>
                     </td>
                 </tr>
                 <tr>
-                    <td>Nama MTK</td>
+                    <th>Nama MTK</th>
                     <td>:</td>
                     <td>
                         <?= $nama; ?>
                     </td>
                 </tr>
                 <tr>
-                    <td>SKS</td>
+                    <th>SKS</th>
                     <td>:</td>
                     <td>
                         <?= $sks; ?>
