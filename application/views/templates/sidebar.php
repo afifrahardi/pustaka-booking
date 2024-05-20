@@ -76,12 +76,11 @@
 
                     </li>
 
-             <!-- Divider -->
+                <!-- Divider -->
                 <hr class="sidebar-divider mt-3">
 
-
-                <!-- Heading -->
-                <div class="sidebar-heading">
+                                <!-- Heading -->
+                                <div class="sidebar-heading">
                     Laporan
                 </div>
                     <!-- Nav Item - Dashboard -->
@@ -105,35 +104,6 @@
                     </li>
                 <!-- Divider -->
                 <hr class="sidebar-divider mt-3">
-
-
-
-                <!-- Heading -->
-                <div class="sidebar-heading">
-                    Laporan
-                </div>
-                    <!-- Nav Item - Dashboard -->
-                    <li class="nav-item active">
-                        <!-- Nav Item - Dashboard -->
-                        <li class="nav-item">
-                            <a class="nav-link pb-0" href="<?= base_url('Laporan/laporan_buku'); ?>">
-                                <i class="fas fa-book"></i>
-                                <span>Laporan Data Buku</span></a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link pb-0" href="<?= base_url('Laporan/laporan_anggota'); ?>">
-                              <i class="fas fa-address-book"></i>
-                                <span>Laporan Data Anggota</span></a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link pb-0" href="<?= base_url('Laporan/laporan_pinjam'); ?>">
-                                <i class="fas fa-users"></i>
-                                <span>Laporan Peminjaman</span></a>
-                        </li>
-                    </li>
-                <!-- Divider -->
-                <hr class="sidebar-divider mt-3">
-
 
             <!-- Sidebar Toggler (Sidebar) -->
             <div class="text-center d-none d-md-inline">
@@ -141,7 +111,7 @@
             </div>
 
         </ul>
-        <!-- End of Sidebar --   >
-
+       
+        <!-- End of Sidebar --   > 
         
         
